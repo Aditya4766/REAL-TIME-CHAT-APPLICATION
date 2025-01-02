@@ -78,3 +78,5 @@ Real-Time Updates: Handling simultaneous messages from multiple users was challe
 Scalability: Designing the database schema to handle a growing user base was critical. Indexing and sharding in MongoDB ensured optimal performance.
 
 UI Consistency: Ensuring a consistent experience across devices required careful use of responsive design principles and thorough testing.
+
+![Screenshot 2024-12-29 111427](https://github.com/user-attachments/assets/b078709c-f073-4850-97dc-92a23a2789de)
